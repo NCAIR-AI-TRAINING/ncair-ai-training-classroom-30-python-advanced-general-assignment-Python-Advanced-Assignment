@@ -69,3 +69,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+git add .
+git commit -m "Add 5-minute waiting rule between different visitors"
+git push --set-upstream origin feature/wait-time
